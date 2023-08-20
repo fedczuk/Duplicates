@@ -1,0 +1,4 @@
+Program wyszukuje, w zadanych lokalizacjach, duplikaty na podstawie nazwy 
+lub sumy MD5 pliku. Następnie umożliwia wybranie zbędnych plików 
+i przeniesienie ich do kosza. Ikony użyte w aplikacji pochodzą 
+z projektu nuoveXT <http://gnome-look.org/content/show.php/nuoveXT+2?content=56625>.
